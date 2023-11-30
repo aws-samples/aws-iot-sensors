@@ -1,0 +1,14 @@
+{
+  "name": "aws-iot-node-js-sample",
+  "version": "1.0.0",
+  "description": "Sample code for AWS IoT services with NodeJs and Javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "",
+  "dependencies": {
+    "mqtt": "^5.3.1"
+  }
+}

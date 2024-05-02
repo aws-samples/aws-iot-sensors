@@ -16,7 +16,7 @@ AWS IoT Sensors supports built-in sensors, including accelerometer, gyroscope, m
 
 <img src="./images/AWS-IoT-Sensors.png" alt="AWS IoT Sensors" style="max-width: 50%;">
 
-## Security
+## Contributing
 
 See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more information.
 

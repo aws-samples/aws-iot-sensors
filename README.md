@@ -1,10 +1,10 @@
 ## AWS IoT Sensors
 
-This repository provides sample code to help customers easily connect to AWS IoT Core and learn more about how the AWS IoT Sensors mobile app publishes sensor data from mobile phones to AWS. 
+This repository provides sample code to help customers easily connect to [AWS IoT Core](https://aws.amazon.com/iot-core/) and learn more about how the AWS IoT Sensors mobile app publishes sensor data from mobile phones to AWS. 
 
 AWS IoT Sensors is a mobile app available on the [Apple App Store](https://apps.apple.com/app/id6447531633) and [Google Play](https://play.google.com/store/apps/details?id=com.amazon.aws.awsiotsensors).
 
-Scan the QR code to download the app.
+### Scan the QR code to download the app.
 
 <img src="./images/AWS-IOT-Sensors-QR.png" alt="AWS IoT Sensors QR Code" style="max-width: 50%;">
 
